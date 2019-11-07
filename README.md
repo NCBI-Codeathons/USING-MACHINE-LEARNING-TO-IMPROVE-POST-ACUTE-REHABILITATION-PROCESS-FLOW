@@ -1,1 +1,9 @@
-# USING-MACHINE-LEARNING-TO-IMPROVE-POST-ACUTE-REHABILITATION-PROCESS-FLOW
+# USING MACHINE LEARNING TO IMPROVE POST ACUTE REHABILITATION PROCESS FLOW
+
+The Centers for Medicare and Medicaid Services (CMS) require patients to have acute medical needs and intensive therapy requirements to receive care at an inpatient rehabilitation facility (IRF).  Predictive models that target patients with a higher probability of IRF admission can lead to decreased length of acute hospitalization, improved bed flow and lower acute care costs. Under the approval of the United States Congress, CMS implemented the per-discharge Prospective Payment System for IRF care based on functional improvements and a patient meeting the “60% Rule” of qualifying diagnoses by primary ICD10 code. 
+
+At UTSouthwestern, admission coordinators screen potential IRF candidates for reasonable and necessary criteria, then calculate the percentage of patients who have qualifying IRF diagnoses.  If the percentage does not top 60%, patients with non-qualifying diagnoses would not be admitted, even if a bed is available. This process is not only cumbersome, it is time consuming. UT Southwestern would benefit from a prediction model, which takes into account the reasonable and necessary criteria for IRF admission on the acute care service, the existing qualifying diagnoses on the IRF service and IRF bed availability for non-qualifying diagnoses.  
+
+This prediction model would streamline the transition of care process, with the goal of decreasing acute length of stay, facilitating outside referrals when needed and decreasing attrition from our health system.  Should this predictive model prove successful, we could test intervention fidelity using the 2019 data. There are over 1100 IRFs in the United States, and there is no existing data on the use of machine learning to improve process flow for post-acute care. Therefore, there is a high likelihood of clinical utility for this intervention.  
+
+Team Lead: Nneka Ifejika, MD, MPH, Physical Medicine and Rehabilitation, utswmed.org/doctors/nneka-ifejika/
